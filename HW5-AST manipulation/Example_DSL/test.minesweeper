@@ -1,0 +1,5 @@
+output: console
+game: 5 X 8
+bomb: 1 , 2
+bomb: 4 , 6
+bomb: 5 , 8
